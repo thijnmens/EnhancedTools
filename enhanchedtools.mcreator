@@ -149,6 +149,10 @@
             "type": "int"
           },
           {
+            "name": "y",
+            "type": "int"
+          },
+          {
             "name": "z",
             "type": "int"
           },
