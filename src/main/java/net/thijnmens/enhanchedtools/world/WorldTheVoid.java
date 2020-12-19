@@ -1078,7 +1078,7 @@ public class WorldTheVoid extends ElementsEnhanchedTools.ModElement {
 	}
 
 	public static class GenLayerBiomesCustom extends GenLayer {
-		private Biome[] allowedBiomes = {Biome.REGISTRY.getObject(new ResourceLocation("void")),};
+		private Biome[] allowedBiomes = {Biome.REGISTRY.getObject(new ResourceLocation("plains")),};
 		public GenLayerBiomesCustom(long seed) {
 			super(seed);
 		}

@@ -21,7 +21,7 @@
     "enablePortal": true,
     "biomesInDimension": [
       {
-        "value": "void"
+        "value": "plains"
       }
     ],
     "worldGenType": "Normal world gen",
@@ -32,7 +32,7 @@
       "value": "Blocks.BEDROCK"
     },
     "tertiaryFillerBlock": {
-      "value": ""
+      "value": "Blocks.BEDROCK"
     },
     "fluidBlock": {
       "value": "Blocks.LAVA"
