@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "enhanchedtools:thevoid_portal_ew"
+    },
+    "axis=x": {
+      "model": "enhanchedtools:thevoid_portal_ns"
+    },
+    "inventory": {
+      "model": "enhanchedtools:thevoid_portal_ns"
+    }
+  }
+}

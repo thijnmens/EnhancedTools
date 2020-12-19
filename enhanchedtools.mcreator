@@ -1,0 +1,167 @@
+{
+  "id_map": {
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "XLOreOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XLOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnhancedTools",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XLIngotMobIsHitWithItem",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XLIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XLOreToXLIngot",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XLArmorArmor",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "XLArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XLArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XLArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XLArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ReinforcedObsidian",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TheVoid",
+      "type": "dimension",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.xlarmorarmorlegs.name": "XLArmor Leggings",
+      "item.xlingot.name": "XL Ingot",
+      "item.xlarmorarmorboots.name": "XLArmor Boots",
+      "item.thevoid.name": "Purple Endereye",
+      "item.xlarmorarmorhelmet.name": "XLArmor Helmet",
+      "item.xlarmorarmorbody.name": "XLArmor Chestplate",
+      "tile.xlore.name": "XL Ore",
+      "itemGroup.tabenhancedtools": "Enhanced Tools",
+      "tile.reinforcedobsidian.name": "Reinforced Obsidian"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "enhanchedtools",
+    "modName": "Enhanched Tools",
+    "version": "1.0.0",
+    "author": "thijn, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.thijnmens.enhanchedtools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

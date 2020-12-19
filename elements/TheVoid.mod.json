@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:ReinforcedObsidian"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.5,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Purple Endereye",
+    "igniterTab": {
+      "value": "CUSTOM:EnhancedTools"
+    },
+    "texture": "yefheoid",
+    "portalTexture": "oidortal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "void"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.BEDROCK"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.BEDROCK"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "airColor": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

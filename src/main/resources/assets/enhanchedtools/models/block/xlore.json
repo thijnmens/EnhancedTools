@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "enhanchedtools:blocks/re",
+    "particle": "enhanchedtools:blocks/re"
+  }
+}

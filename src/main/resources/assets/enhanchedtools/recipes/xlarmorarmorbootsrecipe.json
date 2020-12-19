@@ -1,0 +1,26 @@
+{
+  "group": "enhanchedtools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "enhanchedtools:xlingot"
+    },
+    "2": {
+      "item": "enhanchedtools:xlingot"
+    },
+    "3": {
+      "item": "enhanchedtools:xlingot"
+    },
+    "5": {
+      "item": "enhanchedtools:xlingot"
+    }
+  },
+  "result": {
+    "item": "enhanchedtools:xlarmorarmorboots",
+    "count": 1
+  }
+}
